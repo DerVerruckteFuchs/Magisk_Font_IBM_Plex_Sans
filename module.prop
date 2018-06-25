@@ -1,0 +1,7 @@
+id=IBM-Plex-Sans
+name=IBM Plex Sans
+version=0.1-test
+versionCode=1
+author=DerVerruckteFuchs
+description=Systemlessly Apply the IBM Plex Sans font
+minMagisk=1500
