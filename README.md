@@ -14,7 +14,7 @@
 
 Some glyphs used by Android are not currently included in IBM Plex. Hence some are missing, or look different.
 When IBM Plex gets updated with new glyphs, this module will get updated.
-
+XDA comment with a bit more detail with potential workarounds: https://forum.xda-developers.com/showpost.php?p=74372738&postcount=113
 
 # Changelog:
 * 1.0: *initial release*
