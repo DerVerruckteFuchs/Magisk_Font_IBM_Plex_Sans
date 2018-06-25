@@ -1,6 +1,7 @@
 # IBM Plex™ Sans font Magisk Module
-## original font repo:
-## https://github.com/IBM/plex
+original font repo:
+
+https://github.com/IBM/plex
 
 # Testing devices:
 * OnePlus X with LineageOS 14.1 (Android 7.1.2)
