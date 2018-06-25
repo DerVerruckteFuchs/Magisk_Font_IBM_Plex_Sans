@@ -9,7 +9,7 @@ https://github.com/IBM/plex
 * Samsung Galaxy Tab Pro 8.4 (a.k.a. mondrianwifi/SMT-320) with LineageOS 13.0 (Android 6.0.1)
 
 # Known issues:
-* The colon in the lockscreen clock seems like it is missing and shows up as a unknown unicode block symbol.
+* The colon in the lockscreen clock seems like it is missing and shows up as an unknown unicode block symbol.
 * In the Settings app, "Wi-Fi" shows up as "Wi_Fi"
 * In the Calculator app, pressing the INV (inverse functions) button, some superscript characters are missing for some funtions (specifically the inverse minus sign and exponential x).
 
